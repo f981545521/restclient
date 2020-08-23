@@ -25,7 +25,7 @@ package org.wisdom.tool.constant;
 */
 public class RESTConst
 {
-    public static final String REST_CLIENT_VERSION = "RESTClient";
+    public static final String REST_CLIENT_VERSION = "HTTP Helper";
 
     public static final String WORK = "work";
 
@@ -155,7 +155,7 @@ public class RESTConst
 
     public static final String HTTP_STATUS = "状态";
 
-    public static final String REST_CLIENT = "HTTP客户端";
+    public static final String REST_CLIENT = "HTTP Helper";
 
     public static final String HTTP_HISTORY = "历史";
 
