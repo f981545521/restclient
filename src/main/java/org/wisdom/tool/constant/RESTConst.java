@@ -16,15 +16,14 @@
 package org.wisdom.tool.constant;
 
 /**
-* @ClassName: RESTConst
-* @Description: Rest constants
-* @Author: Yudong (Dom) Wang
-* @Email: wisdomtool@qq.com
-* @Date: 2017-07-22 PM 10:42:57
-* @Version: Wisdom RESTClient V1.2
-*/
-public class RESTConst
-{
+ * @ClassName: RESTConst
+ * @Description: Rest constants
+ * @Author: Yudong (Dom) Wang
+ * @Email: wisdomtool@qq.com
+ * @Date: 2017-07-22 PM 10:42:57
+ * @Version: Wisdom RESTClient V1.2
+ */
+public class RESTConst {
     public static final String REST_CLIENT_VERSION = "HTTP Helper";
 
     public static final String WORK = "work";
@@ -243,7 +242,7 @@ public class RESTConst
 
     public static final String CONFIRM_RM_ALL = "Are you sure you want to remove all?";
 
-    public static final String RM_SEL = "Remove Selected";
+    public static final String RM_SEL = "移除选中";
 
     public static final String RM_ALL = "移除所有";
 
@@ -325,9 +324,9 @@ public class RESTConst
 
     public static final String DESCR = "描述";
 
-    public static final String MOVE_UP = "Move Up";
+    public static final String MOVE_UP = "上移";
 
-    public static final String MOVE_DOWN = "Move Down";
+    public static final String MOVE_DOWN = "下移";
 
     public static final String APITEST = "apitest";
 
@@ -399,5 +398,5 @@ public class RESTConst
 
     public final static String NEW_HDR = "New " + HEADER;
 
-    public final static String REFRESH = "Refresh";
+    public final static String REFRESH = "刷新";
 }
